@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/app_background</item>
+        <item name="android:listViewStyle">@style/TransparentListView</item>
+	</style>
+	
+    <style name="TransparentListView" parent="@android:style/Widget.ListView">
+  		<item name="android:cacheColorHint">@android:color/transparent</item>
+ 	</style>
+ 
+</resources>

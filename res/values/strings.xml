@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ToDo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tasks To Do</string>
+    <string name="title_activity_create_task">Add New Task</string>
+	<string name="task_description">Description</string>
+	<string name="timeView">HH : MM</string>
+	<string name="dateView">DD / MM / YYYY</string>
+	<string name="task_address">Address</string>
+	
+</resources>
